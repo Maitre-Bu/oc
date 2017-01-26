@@ -11,4 +11,4 @@ server.on('close', function() { // On écoute l'évènement close
 
 server.listen(8080); // Démarre le serveur
 
-server.close(); // Arrête le serveur. Déclenche l'évènement close
+//server.close(); // Arrête le serveur. Déclenche l'évènement close
